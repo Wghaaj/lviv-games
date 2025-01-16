@@ -1,0 +1,95 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "title": "CRYPT",
+        "description": "The medieval cemetery holds many terrifying secrets. Locals say a vampire count is buried in the crypt, who rises at night to drink human blood. The sun will set in an hour—can you kill the vampire and escape the crypt in time?",
+        "people": "2 - 5 people",
+        "duration": "120 minutes",
+        "difficulty": "hard",
+        "genre": "Horror",
+        "backgroundImage": "img/cover-sklep.jpg"
+      },
+      {
+        "id": 2,
+        "title": "MANIAC",
+        "description": "In a dimly lit room, several strangers awaken, unable to recall the events of the previous night. Hands and feet are tied, but one of you has managed to break free. A terrifying timer on the wall is counting down from 60 minutes. Can you handle the stress, help the others, figure out what happened, and escape the room?",
+        "people": "3 - 6 people",
+        "duration": "90 minutes",
+        "difficulty": "medium",
+        "genre": "Horror",
+        "backgroundImage": "img/cover-maniac.jpg"
+      },
+      {
+        "id": 3,
+        "title": "RITUAL",
+        "description": "Heavy air fills the damp room where you find yourself trapped with other bewildered victims. Through a crack in the door, you see a hooded figure preparing for what seems to be a mystical ritual. Can you escape before you become the next sacrifice?",
+        "people": "3 - 5 people",
+        "duration": "120 minutes",
+        "difficulty": "hard",
+        "genre": "Mystic",
+        "backgroundImage": "img/cover-ritual.jpg"
+      },
+      {
+        "id": 4,
+        "title": "SECRETS OF THE OLD MANSION",
+        "description": "Immerse yourself in the atmosphere of hidden service rooms filled with mysteries and puzzles. Explore the old mansion and uncover the secrets hidden in its labyrinthine corridors.",
+        "people": "2 - 5 people",
+        "duration": "60 minutes",
+        "difficulty": "easy",
+        "genre": "Detective",
+        "backgroundImage": "img/cover-final-frontier.jpg"
+      },
+      {
+        "id": 5,
+        "title": "CABIN IN THE WOODS",
+        "description": "You and your friends find yourselves in an abandoned cabin. What secrets does it hold, and how can you escape? You'll need to find the answers to return home.",
+        "people": "4 - 7 people",
+        "duration": "90 minutes",
+        "difficulty": "medium",
+        "genre": "Mystic",
+        "backgroundImage": "img/cover-house-in-the-woods.jpg"
+      },
+      {
+        "id": 6,
+        "title": "FATAL EXPERIMENT",
+        "description": "You are on the verge of a scientific breakthrough that could change humanity's fate. But something goes wrong, and the nuclear reactor running at full power signals imminent failure. Can you fix it in time and prevent a catastrophic disaster?",
+        "people": "5 - 8 people",
+        "duration": "120 minutes",
+        "difficulty": "hard",
+        "genre": "Adventures",
+        "backgroundImage": "img/cover-fatal-exp.jpg"
+      },
+      {
+        "id": 7,
+        "title": "METRO 2033",
+        "description": "After a nuclear explosion, the world has plunged into post-apocalyptic chaos. Major cities are wiped out, and life only remains in the depths of the metro. But even here, chaos reigns. Your team has one goal—survive.",
+        "people": "6 - 8 people",
+        "duration": "90 minutes",
+        "difficulty": "medium",
+        "genre": "Sci-Fi",
+        "backgroundImage": "img/cover-metro2033.jpg"
+      },
+      {
+        "id": 8,
+        "title": "THE OLD ATTIC",
+        "description": "What secrets does the old attic hide? Every item here holds a mysterious meaning, bringing you closer to uncovering the attic's ultimate secret. Feel like a true detective and get to the bottom of the mystery.",
+        "people": "2 - 3 people",
+        "duration": "60 minutes",
+        "difficulty": "easy",
+        "genre": "Detective",
+        "backgroundImage": "img/cover-old-ceil.jpg"
+      },
+      {
+        "id": 9,
+        "title": "MARS-2056",
+        "description": "The year is 2056. You've embarked on a scientific expedition to colonize Mars. After setting up a temporary camp and life-support complex, something goes wrong. Now you must flee the red planet as quickly as possible to save your lives.",
+        "people": "2 - 5 people",
+        "duration": "60 minutes",
+        "difficulty": "easy",
+        "genre": "Sci-Fi",
+        "backgroundImage": "img/cover-mars-2056.jpg"
+      }
+    ]
+  }
+  
