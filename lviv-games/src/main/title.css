@@ -1,0 +1,28 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Raleway" !important;
+}
+
+@font-face {
+    font-family: Raleway;
+    src: url(../raleway-regular.woff2);
+}
+
+.small-container {
+    max-width: 1080px;
+}
+
+.small-title {
+    color: #F2890F !important;
+    font-size: 14px;
+}
+
+.big-title {
+    color: #FFFFFF;
+    font-size: 64px;
+    font-weight:bolder;
+}

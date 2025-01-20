@@ -90,6 +90,12 @@
         "genre": "Sci-Fi",
         "backgroundImage": "img/cover-mars-2056.jpg"
       }
-    ]
+    ],
+    "menu": {
+        "games": "Games",
+        "beginners": "For Beginners",
+        "reviews": "Reviews",
+        "promotions": "Promotions",
+        "contacts": "Contacts"
+      }
   }
-  
